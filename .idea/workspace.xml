@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e20b91ee-3635-4443-856e-930705319032" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/owner/src/main/java/com/mycompany/myapp/client/CarsServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner/src/main/java/com/mycompany/myapp/client/remoteentities/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/car/.yo-rc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car/src/main/resources/config/liquibase/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/car/src/main/resources/config/liquibase/master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/.yo-rc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/webapp/app/entities/entity.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/webapp/app/entities/entity.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/webapp/app/layouts/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/webapp/app/layouts/navbar/navbar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/owner/.yo-rc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner/src/main/resources/config/liquibase/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/owner/src/main/resources/config/liquibase/master.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/owner" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n1BVKVSSQbKqFak7JFVygOWtQo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mycompany.myapp.client.remoteentities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OwnerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="owner" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mycompany.myapp.OwnerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e20b91ee-3635-4443-856e-930705319032" name="Default Changelist" comment="" />
+      <created>1610547738799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610547738799</updated>
+      <workItem from="1610547745494" duration="8493000" />
+      <workItem from="1610619859852" duration="2113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610550577402">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1610550577402" />
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610554400330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1610554400330" />
+    <state x="234" y="11" key="Maven.ArtifactSearchDialog" timestamp="1610622045822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="234" y="11" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1610622045822" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1610620150781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1610620150781" />
+  </component>
+</project>
